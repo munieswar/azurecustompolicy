@@ -1,5 +1,5 @@
 # Azure Custom Policy
-Azure Custom Policy to Scope VM is migrated with Azure Migrate and has missing  imagePublisher imageOffer imageSKU 
+Azure Custom Policy to Scope VM which is migrated with Azure Migrate and has missing parameters "imagePublisher" "imageOffer" "imageSKU"
 
 This repository contains Azure Policy definitions that can be used to scope virtual machines (VMs) that were not previously scoped by built-in policies. These policies can help ensure that your VMs are properly configured and secured.
 
