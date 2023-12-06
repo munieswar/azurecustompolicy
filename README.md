@@ -26,7 +26,7 @@ Once you've imported the policies, you can assign them to your VMs by creating a
 This repository contains the following policies:
 
 - `policy1.json`: This policy scopes VMs to a specific subscription or resource group and remediates the scoped VM's with AMA extension
-- `policy2.json`: This policy remediation tasks attaches DCR to VMs.
+- `policy2.json`: This policy remediation tasks attaches DCR to VMs. (configure DCR prior creating policy2 since it's mandatory to provide DCR resource ID 
 
 ## Contributing
 
